@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#55B0c1</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorWhite">#ffffff</color>
+
+<!--    <color name="colorOffWhite">#F3F2EE</color>-->
+    <color name="colorOffWhite">#eef2f3</color>
+
+    <color name="pressedButton">#d4d8d9</color>
+
+    <color name="colorMainActivityStatusBar">#55B0C1</color>
+    <color name="colorListHeading">#c9eef5</color>
+</resources>

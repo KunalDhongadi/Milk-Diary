@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "240116904795",
+    "firebase_url": "https://milky-diary.firebaseio.com",
+    "project_id": "milky-diary",
+    "storage_bucket": "milky-diary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240116904795:android:d077ba33e482cd0c14207e",
+        "android_client_info": {
+          "package_name": "com.kunaldhongadi.milkydiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240116904795-89s29pr51vfnes8n49o5ie16r9g3evb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvTVgwh2d4DoXVMixRBMyPAeoZ5_tiwNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240116904795-89s29pr51vfnes8n49o5ie16r9g3evb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
